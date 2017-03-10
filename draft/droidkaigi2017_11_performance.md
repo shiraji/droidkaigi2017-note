@@ -30,3 +30,11 @@ Leak Canary
 
 * Best Practices for Performance
 * Profile Your App
+
+Q Memory Heap
+
+A 実際にメモリーリークしていることを確認する。
+
+Q JNIのメモリーリーク
+
+A ちょっとわからない。
